@@ -1,1 +1,4 @@
-# Calculadora-de-Peso-em-outros-planetas
+Este é um site feito com HTML5, CSS3 e JavaScript, onde sua função será receber os dados inseridos nos campos, onde é solicitado um planeta e a sua massa, com isso, ira seu feito um cálculo para descobrir o seu peso em um determinado planeta de sua escolha e será impresso logo a baixo o resultado, informando o nome do planeta, seguido do peso.
+
+Por fins de curiosidade uma breve explicação sobre massa e peso:
+Muita gente não sabe, mas massa e peso são coisas diferentes. A massa é aquilo que você mede quando sobe na balança (medida em kg) já o peso consiste em uma força e é medido em Newtons (N). Para calcular o peso multiplicamos a massa (kg) pela aceleração da gravidade (9,81 m/s²). A massa se mantém a mesma em qualquer lugar do universo. Já o peso varia de acordo com aceleração gravitacional do planeta que você está. Por exemplo, em Marte a aceleração da gravidade  é de 0,38m/s², supondo que sua massa é de 60kg, se multiplicarmos, pela aceleração da gravidade de Marte(60 * 0,38m/s²) obteremos o valor do seu peso, que será dada em Newton(N), seu peso será de: 588,60N
